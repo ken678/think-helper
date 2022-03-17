@@ -1,5 +1,5 @@
 {
-    "name": "ken678/think-helper",
+    "name": "yzncms/think-helper",
     "description": "The ThinkPHP5 Helper Package",
     "license": "Apache-2.0",
     "authors": [
@@ -8,6 +8,9 @@
             "email": "448901948@qq.com"
         }
     ],
+    "support": {
+        "issues": "https://gitee.com/ken678/YZNCMS/issues"
+    },
     "require": {
         "php": ">=7.0.0"
     },
